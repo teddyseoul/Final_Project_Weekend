@@ -23,6 +23,9 @@
 
 ![회원가입](https://user-images.githubusercontent.com/46267635/64471586-7e894f80-d18e-11e9-8ceb-4ae93f064be7.png)
 
+### 로그인 및 패스워드 찾기
+![로그인 및 비밀번호 찾기](https://user-images.githubusercontent.com/46267635/64471704-a0370680-d18f-11e9-92cc-71b876e8250f.PNG)
+
 ### 전국시도 Select
 ![전국시도](https://user-images.githubusercontent.com/46267635/64471667-256deb80-d18f-11e9-9267-80d745c11ee1.png)
 
