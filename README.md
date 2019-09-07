@@ -19,9 +19,7 @@
 
 ### 약관동의 및 회원가입
 
-![약관동의](https://user-images.githubusercontent.com/46267635/64471585-7d582280-d18e-11e9-8e8a-26cd7885bcd6.png)
-
-![회원가입](https://user-images.githubusercontent.com/46267635/64471586-7e894f80-d18e-11e9-8ceb-4ae93f064be7.png)
+![약관동의 및 회원가입](https://user-images.githubusercontent.com/46267635/64471723-f60bae80-d18f-11e9-98cf-2f1087354072.PNG)
 
 ### 로그인 및 패스워드 찾기
 ![로그인 및 비밀번호 찾기](https://user-images.githubusercontent.com/46267635/64471704-a0370680-d18f-11e9-92cc-71b876e8250f.PNG)
