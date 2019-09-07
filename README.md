@@ -9,7 +9,8 @@
 ## 개발 PLATFORM
 - 환경      : Window 10 / JDK 1.8 / Oracle 11g / Tomcat 9.0 / Spring Framework / MyBatis
 - 언어      : Java / SQL / HTML5 / CSS3 / JavaScript / JQuery / Ajax
-- 개발도구  : STS 3.9.9 / SQL Developer / 미리캔버스 / Flaticon
+- 개발도구  : STS 3.9.9 / SQL Developer 
+- 참고 Site : 미리캔버스 / Flaticon / w3schools
 
 ### 주말뭐해 메인
 ![주말뭐해 소개](https://user-images.githubusercontent.com/46267635/64471751-3ec36780-d190-11e9-949c-6a3c5504e5d9.PNG)
