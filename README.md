@@ -19,4 +19,5 @@
 
 ### 약관동의 및 회원가입
 
-![약관동의](https://user-images.githubusercontent.com/46267635/64471585-7d582280-d18e-11e9-8e8a-26cd7885bcd6.png)![회원가입](https://user-images.githubusercontent.com/46267635/64471586-7e894f80-d18e-11e9-8ceb-4ae93f064be7.png)
+![약관동의](https://user-images.githubusercontent.com/46267635/64471585-7d582280-d18e-11e9-8e8a-26cd7885bcd6.png)
+![회원가입](https://user-images.githubusercontent.com/46267635/64471586-7e894f80-d18e-11e9-8ceb-4ae93f064be7.png)
