@@ -12,10 +12,7 @@
 - 개발도구  : STS 3.9.9 / SQL Developer / 미리캔버스
 
 ### 주말뭐해 메인
-![주말뭐해 메인1](https://user-images.githubusercontent.com/46267635/64331219-5faf7f80-d00d-11e9-82e8-01308f550d73.JPG)
-
-### 주말뭐해 고객센터
-![주말뭐해 메인2](https://user-images.githubusercontent.com/46267635/64331256-6d650500-d00d-11e9-9d4f-636283549627.JPG)
+![주말뭐해 소개](https://user-images.githubusercontent.com/46267635/64471751-3ec36780-d190-11e9-949c-6a3c5504e5d9.PNG)
 
 ### 약관동의 및 회원가입
 
