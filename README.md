@@ -18,4 +18,5 @@
 ![주말뭐해 메인2](https://user-images.githubusercontent.com/46267635/64331256-6d650500-d00d-11e9-9d4f-636283549627.JPG)
 
 ### 약관동의 및 회원가입
-![약관동의](https://user-images.githubusercontent.com/46267635/64471541-f4d98200-d18d-11e9-9960-2213cd6842b4.png) ![회원가입](https://user-images.githubusercontent.com/46267635/64471543-f60aaf00-d18d-11e9-94ab-ae467a7a5d03.png)
+
+![약관동의](https://user-images.githubusercontent.com/46267635/64471585-7d582280-d18e-11e9-8e8a-26cd7885bcd6.png)![회원가입](https://user-images.githubusercontent.com/46267635/64471586-7e894f80-d18e-11e9-8ceb-4ae93f064be7.png)
