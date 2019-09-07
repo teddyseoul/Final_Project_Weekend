@@ -22,3 +22,12 @@
 ![약관동의](https://user-images.githubusercontent.com/46267635/64471585-7d582280-d18e-11e9-8e8a-26cd7885bcd6.png)
 
 ![회원가입](https://user-images.githubusercontent.com/46267635/64471586-7e894f80-d18e-11e9-8ceb-4ae93f064be7.png)
+
+### 전국시도 Select
+![전국시도](https://user-images.githubusercontent.com/46267635/64471667-256deb80-d18f-11e9-9267-80d745c11ee1.png)
+
+### 축제 List
+![대학로](https://user-images.githubusercontent.com/46267635/64471664-1edf7400-d18f-11e9-88fa-79170c2dd039.png)
+
+### 축제 Write
+![축제 글쓰기](https://user-images.githubusercontent.com/46267635/64471669-2737af00-d18f-11e9-93cc-cdeb682ed3ad.png)
