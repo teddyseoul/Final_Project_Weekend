@@ -11,6 +11,7 @@
 - 언어      : Java / SQL / HTML5 / CSS3 / JavaScript / JQuery / Ajax
 - 개발도구  : STS 3.9.9 / SQL Developer 
 - 참고 Site : 미리캔버스 / Flaticon / w3schools
+
 ## 담당 업무
 제가 이 프로젝트를 개발하면서 수행한 역할은 프론트엔드(Front-End) 개발입니다. 
 나머지 팀원들은 크게 관리자페이지/ 회원관리/ 게시판/ 결제 부분으로 나눠서 백엔드(Back-End) 개발을 맡았습니다. 
@@ -18,29 +19,31 @@
 프로젝트를 진행하면서 단순히 개발에 몰두하기보다 팀 프로젝트를 하는 과정에서 서로 적극적으로 소통하여 부족한 부분을 채워가려고 했습니다.
 클라이언트 개발자와 서버 개발자의 협업에 있어 서로 간의 정말 많은 소통이 필요하다는 것을 느꼈으며 미디어 쿼리를 사용하여 반응형 웹으로 개발 못 한 부분을 고쳐 나가겠습니다.
 
+<hr/>
+
 ### 주말뭐해 메인
 ![주말뭐해 소개](https://user-images.githubusercontent.com/46267635/64471751-3ec36780-d190-11e9-949c-6a3c5504e5d9.PNG)
-<hr/>
+
 ### 약관동의 및 회원가입
 ![약관동의 및 회원가입](https://user-images.githubusercontent.com/46267635/64471798-c315ea80-d190-11e9-8428-5352a8f85fc3.PNG)
-<hr/>
+
 ### 로그인 및 패스워드 찾기
 ![로그인 및 비밀번호 찾기](https://user-images.githubusercontent.com/46267635/64471704-a0370680-d18f-11e9-92cc-71b876e8250f.PNG)
-<hr/>
+
 ### W게시판
 ![게시판](https://user-images.githubusercontent.com/46267635/65378293-42f39700-dcf1-11e9-94a3-084f68526a1a.PNG)
-<hr/>
+
 ### 전국시도
 ![전국지도](https://user-images.githubusercontent.com/46267635/65378256-e42e1d80-dcf0-11e9-9cd5-6cafa27627b4.PNG)
 
 ### 전국시도 Select
 ![전국시도](https://user-images.githubusercontent.com/46267635/64471667-256deb80-d18f-11e9-9267-80d745c11ee1.png)
-<hr/>
+
 ### 공연 List
 ![전국 축제](https://user-images.githubusercontent.com/46267635/65378258-f445fd00-dcf0-11e9-811d-c8143eff786d.PNG)
-<hr/>
+
 ### 공연 Select
 ![공연 select](https://user-images.githubusercontent.com/46267635/65378273-0758cd00-dcf1-11e9-87fa-11981fbb084a.PNG)
-<hr/>
+
 ### 공연 Rank
 ![공연 rank](https://user-images.githubusercontent.com/46267635/65378287-28b9b900-dcf1-11e9-96b9-c5c353985be5.PNG)
