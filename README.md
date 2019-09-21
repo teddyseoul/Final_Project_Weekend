@@ -37,8 +37,5 @@
 ### 공연 Select
 ![공연 select](https://user-images.githubusercontent.com/46267635/65378273-0758cd00-dcf1-11e9-87fa-11981fbb084a.PNG)
 
-### 축제 Write
-![축제 글쓰기](https://user-images.githubusercontent.com/46267635/64471669-2737af00-d18f-11e9-93cc-cdeb682ed3ad.png)
-
 ### 공연 Rank
 ![공연 rank](https://user-images.githubusercontent.com/46267635/65378287-28b9b900-dcf1-11e9-96b9-c5c353985be5.PNG)
