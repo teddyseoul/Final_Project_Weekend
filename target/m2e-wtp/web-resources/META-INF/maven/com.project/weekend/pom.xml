@@ -24,7 +24,12 @@
 	</repositories>
 
 	<dependencies>
-	
+		<dependency>
+   			 <groupId>org.apache.maven.plugins</groupId>
+   		 <artifactId>maven-resources-plugin</artifactId>
+   		 <version>2.4.3</version>
+		</dependency>
+		
 		<!-- google api -->
         <dependency>
             <groupId>com.google.api-client</groupId>
