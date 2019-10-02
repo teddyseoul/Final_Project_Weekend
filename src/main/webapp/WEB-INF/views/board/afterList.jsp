@@ -133,28 +133,9 @@
 		</div>
 	</div>
 <a href="javascript:window.scrollTo(0,0);" id="back_to_top"><img src="${pageContext.request.contextPath}/resources/images/home/위로.png"></a>
-	<!-- ------script---------- -->
-	<script type="text/javascript">
-		/* 각 행 선택 시 select 페이지 이동 */
-		$('.select').click(function() {
-			var anum = $(this).children('.selectRow').attr('id');
-			location.href = "./${board}Select?anum=" + anum;
-		});
 
-		/* board 글쓰기 이동 */
-		$('#boardWrite').click(function() {
-			var board = $(this).val();
-			location.href = "./" + board + "Write"
-		});
-
-		/* 테이블의 num 앞에 구분 문자 안보이게 */
-		$('.selectRow').each(function() {
-			var num = $(this).attr('id');
-			num = num.substring(1);
-			$(this).children('p').append(num);
-		});
-		
-	</script>
+<!-- js -->
+<script type="text/javascript" src="./resources/js/board/afterList.js"></script>
 
 </body>
 </html>
